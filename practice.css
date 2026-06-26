@@ -1,0 +1,8 @@
+#sidebar {
+    width: 150px;
+    height: 700px;
+    position: fixed;
+    transition: 0.4s;
+    background-color: blue;
+    left: -250px;
+}
